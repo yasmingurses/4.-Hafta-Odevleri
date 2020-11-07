@@ -2,7 +2,7 @@
 
 #Listedeki elemanların toplamını bulmak
 
-lam = 0
+toplam = 0
   
 liste = [ 3 , 4 , 6 ,7 , 10 , 1, 50 ]  
   
